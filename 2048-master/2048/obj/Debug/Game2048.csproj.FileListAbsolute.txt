@@ -1,0 +1,15 @@
+E:\130615\2048-master\2048\bin\Debug\Game2048.exe.config
+E:\130615\2048-master\2048\bin\Debug\Game2048.exe
+E:\130615\2048-master\2048\bin\Debug\Game2048.pdb
+E:\130615\2048-master\2048\bin\Debug\EntityFramework.dll
+E:\130615\2048-master\2048\bin\Debug\EntityFramework.SqlServer.dll
+E:\130615\2048-master\2048\bin\Debug\EntityFramework.xml
+E:\130615\2048-master\2048\bin\Debug\EntityFramework.SqlServer.xml
+E:\130615\2048-master\2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+E:\130615\2048-master\2048\obj\Debug\Game2048.MainForm.resources
+E:\130615\2048-master\2048\obj\Debug\Game2048.HighScoresForm.resources
+E:\130615\2048-master\2048\obj\Debug\Game2048.GameOverForm.resources
+E:\130615\2048-master\2048\obj\Debug\Game2048.Properties.Resources.resources
+E:\130615\2048-master\2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+E:\130615\2048-master\2048\obj\Debug\Game2048.exe
+E:\130615\2048-master\2048\obj\Debug\Game2048.pdb
